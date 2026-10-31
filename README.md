@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Framework-red.svg)](https://keras.io/)
-
 ---
 
 ## 1. Study Overview & Objectives
